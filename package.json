@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Darya0712/my-test-repository/issues"
   },
-  "homepage": "https://github.com/Darya0712/my-test-repository#readme"
+  "homepage": "https://github.com/Darya0712/my-test-repository#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
